@@ -60,7 +60,7 @@ Solvent evaporation → Thermal decomposition → Solid thin film
 ```
 
 <p align="center">
-  <img src="images/mini_project_block.drawio(1).png" width="700">
+  <img src="images/block_diagram.png" width="700">
 </p>
 
 <p align="center">
@@ -68,7 +68,7 @@ System block diagram illustrating ultrasonic atomization, aerosol transport, CNC
 </p>
 
 <p align="center">
-  <img src="images/mini_project_flow.drawio(1).png" width="700">
+  <img src="images/flow_diagram.png" width="700">
 </p>
 
 <p align="center">
