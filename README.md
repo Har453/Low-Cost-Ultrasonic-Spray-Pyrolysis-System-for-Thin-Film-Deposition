@@ -122,10 +122,6 @@ CNC-controlled nozzle movement used for precise raster scanning and uniform prec
   </tr>
 </table>
 
-| Grid Pattern | Zigzag Pattern |
-|--------------|----------------|
-| Spiral Pattern | Loop Pattern |
-
 ---
 
 # 🔧 Hardware Components
