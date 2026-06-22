@@ -1,4 +1,3 @@
-````markdown
 # Low-Cost Ultrasonic Spray Pyrolysis System for Thin Film Deposition
 
 > A GRBL-controlled two-axis CNC ultrasonic spray pyrolysis unit for uniform thin-film deposition — built as an affordable alternative to commercial systems that cost orders of magnitude more.
@@ -33,7 +32,7 @@ Commercial automated spray pyrolysis units are prohibitively expensive for acade
 This project addresses all these issues with an ultrasonic, open-source, CNC-driven approach.
 
 <p align="center">
-<img src="images/system.jpg" width="700">
+  <img src="images/system.jpg" width="700">
 </p>
 
 <p align="center">
@@ -44,7 +43,7 @@ Complete assembled ultrasonic spray pyrolysis system including CNC motion platfo
 
 # 🏗️ System Design
 
-### Core Principle
+## Core Principle
 
 ```text
 [Precursor Solution]
@@ -61,7 +60,7 @@ Solvent evaporation → Thermal decomposition → Solid thin film
 ```
 
 <p align="center">
-<img src="images/block-diagram.jpg" width="700">
+  <img src="images/block-diagram.jpg" width="700">
 </p>
 
 <p align="center">
@@ -69,22 +68,22 @@ System block diagram illustrating ultrasonic atomization, aerosol transport, CNC
 </p>
 
 <p align="center">
-<img src="images/process-flow.jpg" width="700">
+  <img src="images/process-flow.jpg" width="700">
 </p>
 
 <p align="center">
 Process flow of the ultrasonic spray pyrolysis deposition mechanism from precursor solution atomization to thin-film formation.
 </p>
 
-### Two-Axis CNC Motion Platform
+## Two-Axis CNC Motion Platform
 
-- Controller: Arduino with GRBL firmware
-- Motors: NEMA stepper motors on X and Y axes
-- Motion pattern: Programmable G-code raster scan — adjustable step size, overlap %, and scan area
-- Purpose: Ensures uniform precursor coverage across the entire substrate, not just the centre
+- **Controller:** Arduino with GRBL firmware
+- **Motors:** NEMA stepper motors on X and Y axes
+- **Motion pattern:** Programmable G-code raster scan — adjustable step size, overlap %, and scan area
+- **Purpose:** Ensures uniform precursor coverage across the entire substrate, not just the centre
 
 <p align="center">
-<img src="images/heating-area.jpg" width="650">
+  <img src="images/heating-area.jpg" width="650">
 </p>
 
 <p align="center">
@@ -92,7 +91,7 @@ Ultrasonic atomization and heated deposition region used for controlled thin-fil
 </p>
 
 <p align="center">
-<img src="images/nozzle-motion.jpg" width="650">
+  <img src="images/nozzle-motion.jpg" width="650">
 </p>
 
 <p align="center">
@@ -142,7 +141,7 @@ CNC-controlled nozzle movement used for precise raster scanning and uniform prec
 - ✅ Fully functional modular prototype suitable for metal-oxide, photovoltaic, and catalytic thin-film research
 
 <p align="center">
-<img src="images/interface.jpg" width="700">
+  <img src="images/interface.jpg" width="700">
 </p>
 
 <p align="center">
@@ -185,4 +184,3 @@ The system is suitable for research-grade deposition of:
 | Tarun Patil | ECE, BMSITM |
 | Nitish K S | ECE, BMSITM |
 | Harshitha K V | ECE, BMSITM |
-````
