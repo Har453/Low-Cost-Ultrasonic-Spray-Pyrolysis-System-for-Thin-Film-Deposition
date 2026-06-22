@@ -161,7 +161,7 @@ CNC-controlled nozzle movement used for precise raster scanning and uniform prec
 - ✅ Fully functional modular prototype suitable for metal-oxide, photovoltaic, and catalytic thin-film research
 
 <p align="center">
-  <img src="interface.png" width="700">
+  <img src="interface_image.png" width="700">
 </p>
 
 <p align="center">
