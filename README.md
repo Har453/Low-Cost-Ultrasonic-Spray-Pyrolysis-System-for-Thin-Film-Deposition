@@ -32,7 +32,7 @@ Commercial automated spray pyrolysis units are prohibitively expensive for acade
 This project addresses all these issues with an ultrasonic, open-source, CNC-driven approach.
 
 <p align="center">
-  <img src="images/system.jpg" width="700">
+  <img src="images/full_system.jpg" width="700">
 </p>
 
 <p align="center">
@@ -60,7 +60,7 @@ Solvent evaporation → Thermal decomposition → Solid thin film
 ```
 
 <p align="center">
-  <img src="images/block-diagram.jpg" width="700">
+  <img src="images/mini_project_block.drawio(1).png" width="700">
 </p>
 
 <p align="center">
@@ -68,7 +68,7 @@ System block diagram illustrating ultrasonic atomization, aerosol transport, CNC
 </p>
 
 <p align="center">
-  <img src="images/process-flow.jpg" width="700">
+  <img src="images/mini_project_flow.drawio(1).png" width="700">
 </p>
 
 <p align="center">
@@ -97,6 +97,30 @@ Ultrasonic atomization and heated deposition region used for controlled thin-fil
 <p align="center">
 CNC-controlled nozzle movement used for precise raster scanning and uniform precursor deposition.
 </p>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="images/grid.drawio.png" width="400"><br>
+      <b>Grid Pattern</b>
+    </td>
+    <td align="center">
+      <img src="images/zigzag.drawio.png" width="400"><br>
+      <b>Zigzag Pattern</b>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="images/spiral.drawio.png" width="400"><br>
+      <b>Spiral Pattern</b>
+    </td>
+    <td align="center">
+      <img src="images/loop.drawio.png" width="400"><br>
+      <b>Loop Pattern</b>
+    </td>
+  </tr>
+</table>
 
 | Grid Pattern | Zigzag Pattern |
 |--------------|----------------|
@@ -141,7 +165,7 @@ CNC-controlled nozzle movement used for precise raster scanning and uniform prec
 - ✅ Fully functional modular prototype suitable for metal-oxide, photovoltaic, and catalytic thin-film research
 
 <p align="center">
-  <img src="images/interface.jpg" width="700">
+  <img src="interface.png" width="700">
 </p>
 
 <p align="center">
