@@ -83,7 +83,7 @@ Process flow of the ultrasonic spray pyrolysis deposition mechanism from precurs
 - **Purpose:** Ensures uniform precursor coverage across the entire substrate, not just the centre
 
 <p align="center">
-  <img src="images/heating-area.jpg" width="650">
+  <img src="images/heating_area.jpg" width="650">
 </p>
 
 <p align="center">
@@ -91,7 +91,7 @@ Ultrasonic atomization and heated deposition region used for controlled thin-fil
 </p>
 
 <p align="center">
-  <img src="images/nozzle-motion.jpg" width="650">
+  <img src="images/nozzle_motion.jpg" width="650">
 </p>
 
 <p align="center">
